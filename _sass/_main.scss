@@ -1,5 +1,11 @@
+html {
+	background: url(/blog/assets/img/bg.png);
+	background-repeat: repeat;
+	background-size: 18%;
+	height: 100vh;
+}
+
 body {
-	background: #ff5845;
 	font-family: sans-serif, serif, monospace;
 	font-size: 13px;
 }
